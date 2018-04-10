@@ -5,5 +5,6 @@
 	<classpathentry kind="src" path="javamaster.interface_"/>
 	<classpathentry kind="src" path="javamaster.linkedlist"/>
 	<classpathentry kind="src" path="javamaster.generics"/>
+	<classpathentry kind="src" path="jm.s12.namingPackageStaticFinal"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
